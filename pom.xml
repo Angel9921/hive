@@ -63,6 +63,8 @@
     <module>iceberg</module>
   </modules>
   <properties>
+    <sonar.organization>angel9921</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <standalone-metastore.version>4.1.0-SNAPSHOT</standalone-metastore.version>
     <hive.version.shortname>4.1.0</hive.version.shortname>
     <!-- Build Properties -->
